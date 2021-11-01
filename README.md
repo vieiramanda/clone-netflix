@@ -1,2 +1,4 @@
 # clone-netflix
-projeto pessoal front-end em desenvolvimento
+Repositório criado para os desafios DIO:
+  - Criação de Repositório Git/Github
+  - Clone da interface Netflix [front-end]
